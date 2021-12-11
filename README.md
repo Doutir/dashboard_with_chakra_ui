@@ -1,3 +1,3 @@
-# dashboard_with_chakra_ui
+# Dashboard com Chackra UI
 
 dashboard criada com os componentes do chakra ui utilizando os conceitos de interface declarativa 
